@@ -1,24 +1,30 @@
+Salt & Ink began as a kitchen notebook. A place to hold recipes, observations, and the small moments that revolve around the counter. Some ideas begin as recipes, others as sentences scribbled between steps. Over time, the notebook grew into a space filled with questions, photos, and stories, textured with spilled salt and spices.
+
+It’s a living record of a home, and records are meant to be shared. So come join me in the Salt & Ink Journal.
+
+Step into the [Kitchen](/kitchen/) where you’ll find recipes, techniques, useful pantry items, and a focus on cooking as a craft.  
+Then settle in at the [Table](/table/) for a look at the human side of food: memories, conversation, rituals, and the threads that bind us together.  
+Afterwards, join me in the [Journal](/journal/), a space of identity and becoming who we are meant to be. It’s the quiet evolution of self that happens through cooking.
+
 ---
-layout: home
-title: Salt and Ink Journal
----
 
-# Salt and Ink Journal
+If you’d like to be a frequent guest here, pull up a stool and sign up for Counter Notes so you can always get a peek into what’s new in my kitchen notebook.
 
-The Salt & Ink Journal is where the kitchen and personhood meet. They say, “You are what you eat,” but the truth goes much deeper than that.  
-You are the food of your childhood.  
-You are the people who share your table.  
-You are the quiet moments stirring a pot at the end of a long day.  
-You are the memories made over dinners.  
-You are the laughter shared over dessert.  
-You are the recipes passed down, adapted, forgotten, and rediscovered again.  
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/saltandink"
+  method="post"
+  class="embeddable-buttondown-form"
+  referrerpolicy="unsafe-url"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.com/refer/saltandink" target="_blank">
+      Powered by Buttondown
+    </a>
+  </p>
+</form>
 
-Salt & Ink lives in that space between nourishment and narrative, where food is more than sustenance. Here, recipes sit beside reflection, technique beside memory, and the table becomes a place to gather not just to eat, but to understand who we are becoming.  
-
-Step inside. Stay awhile. There’s always room at the Salt & Ink table.
-
-## Step inside
-
-- [The Kitchen](/kitchen/)
-- [The Table](/table/)
-- [The Journal](/journal/)
+If anything here resonates and you’d like to connect, you can always reach me at  
+[saltandinkjournal@gmail.com](mailto:saltandinkjournal@gmail.com?subject=Salt%20%26%20Ink%20Journal%20Inquiry).
