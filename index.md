@@ -4,7 +4,7 @@ title: Salt and Ink Journal
 
 ---
 
-# Salt and Ink Journal
+
 
 The Salt & Ink Journal is where the kitchen and personhood meet. They say, “You are what you eat,” but the truth goes much deeper than that.  
 You are the food of your childhood.  
