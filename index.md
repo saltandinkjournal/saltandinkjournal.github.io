@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Salt and Ink Journal
+title: Salt & Ink Journal
 
 ---
 *An intentional kitchen with salt, spice, and the stories we carry.*
