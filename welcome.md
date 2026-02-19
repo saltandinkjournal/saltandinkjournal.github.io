@@ -19,11 +19,7 @@ If you’d like to be a frequent guest here, pull up a stool and sign up for Cou
   <label for="bd-email">Enter your email</label>
   <input type="email" name="email" id="bd-email" />
   <input type="submit" value="Subscribe" />
-  <p>
-    <a href="https://buttondown.com/refer/saltandink" target="_blank">
-      Powered by Buttondown
-    </a>
-  </p>
+  
 </form>
 
 If anything here resonates and you’d like to connect, you can always reach me at  
