@@ -30,5 +30,6 @@ If you’d like to be a frequent guest here, pull up a stool and sign up for Cou
   
 </form>
 
+
 If anything here resonates and you’d like to connect, you can always reach me at  
 [saltandinkjournal@gmail.com](mailto:saltandinkjournal@gmail.com?subject=Salt%20%26%20Ink%20Journal%20Inquiry).
