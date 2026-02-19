@@ -3,7 +3,7 @@ layout: home
 title: Salt and Ink Journal
 *An intentional kitchen with salt, spice, and the stories we carry.*
 ---
-
+*An intentional kitchen with salt, spice, and the stories we carry.*
 
 
 The Salt & Ink Journal is where the kitchen and personhood meet. They say, “You are what you eat,” but the truth goes much deeper than that.  
