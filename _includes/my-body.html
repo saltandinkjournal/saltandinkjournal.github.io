@@ -1,0 +1,32 @@
+<style>
+  /* Salt & Ink brand in the top navbar */
+  .si-brand img{
+    height: 34px;
+    width: auto;
+    vertical-align: middle;
+  }
+  .si-brand{
+    display: inline-flex;
+    align-items: center;
+    margin-right: 12px;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    // Hydejack’s top bar typically has a .navbar and a content wrapper
+    const target = document.querySelector('.navbar .content') || document.querySelector('.navbar');
+    if (!target) return;
+
+    // Avoid duplicating if it already exists
+    if (document.querySelector('.si-brand')) return;
+
+    const a = document.createElement('a');
+    a.href = '/';
+    a.className = 'si-brand';
+    a.innerHTML = '<img src="/assets/images/logo.jpg" alt="Salt & Ink Journal logo">';
+
+    // Put it at the start of the navbar
+    target.prepend(a);
+  });
+</script>
