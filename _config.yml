@@ -9,6 +9,7 @@ plugins:
 
 accent_image: /assests/image/sidebar-bg.jpg
 menu:
-- title: Home
-url: /
+  - title: Home
+    url: /
+
 avatar: /assets/images/logo.png
