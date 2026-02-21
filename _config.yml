@@ -1,10 +1,10 @@
 title: Salt and Ink Journal
 description: An intentional kitchen with salt, spice, and the stories we carry.
 theme: minima
-logo: /assets/images/logo.png
+
 remote_theme: hydecorp/hydejack@v9
 
 plugins:
   - jekyll-include-cache
-logo: /assets/images/logo.jpg
+
 accent_image: /assests/image/saltink-sidebar.jpg
