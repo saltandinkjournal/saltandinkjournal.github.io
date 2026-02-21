@@ -6,5 +6,5 @@ remote_theme: hydecorp/hydejack@v9
 
 plugins:
   - jekyll-include-cache
-logo: /assets/images/logo.png
+logo: /assets/images/logo.jpg
 accent_image: /assests/image/saltink-sidebar.jpg
