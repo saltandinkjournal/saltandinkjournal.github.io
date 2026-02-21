@@ -7,4 +7,4 @@ remote_theme: hydecorp/hydejack@v9
 plugins:
   - jekyll-include-cache
 
-accent_image: /assests/image/saltink-sidebar.jpg
+accent_image: /assests/image/sidebar.png
