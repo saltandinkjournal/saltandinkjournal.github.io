@@ -8,3 +8,7 @@ plugins:
   - jekyll-include-cache
 
 accent_image: /assests/image/sidebar.png
+menu:
+- title: Home
+url: /
+avatar: /assets/images/logo.png
