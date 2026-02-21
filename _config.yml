@@ -7,6 +7,6 @@ plugins:
   - jekyll-include-cache
 
 accent_image: /assets/img/sidebar-bg.jpg
-logo: /assets/images/logo.jpg
+
 css: /assets/css/custom.css
 
