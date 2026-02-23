@@ -2,29 +2,21 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="/saltandinkjournal.github.io/assets/sidebar.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 
 <body>
 
-  <!-- Hamburger Button -->
-  <button id="sidebar-toggle" aria-label="Open menu">☰</button>
+  {% include sidebar.html %}
 
-  <!-- Sidebar -->
-  <aside id="sidebar">
-    {% include sidebar.html %}
-  </aside>
-
-  <!-- Dark overlay -->
-  <div id="overlay"></div>
-
-  <!-- Main content -->
-  <main>
+  <main class="content">
     {{ content }}
   </main>
 
-  <script src="/saltandinkjournal.github.io/assets/sidebar.js"></script>
+  <script src="{{ '/assets/js/sidebar.js' | relative_url }}"></script>
+
 </body>
 </html>
