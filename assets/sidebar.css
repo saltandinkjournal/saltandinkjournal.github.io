@@ -1,1 +1,79 @@
+/* Reset */
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+
+/* Hamburger button */
+#sidebar-toggle {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  font-size: 2rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  z-index: 1001;
+}
+
+/* Sidebar */
+#sidebar {
+  position: fixed;
+  top: 0;
+  left: -300px;
+  width: 300px;
+  height: 100%;
+  background: #fafafa;
+  box-shadow: 2px 0 10px rgba(0,0,0,0.2);
+  padding: 2rem 1.5rem;
+  transition: left 0.3s ease;
+  z-index: 1002;
+}
+
+#sidebar.open {
+  left: 0;
+}
+
+/* Close button */
+#close-sidebar {
+  font-size: 2rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+/* Overlay */
+#overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.5);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  z-index: 1000;
+}
+
+#overlay.visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Sidebar content */
+.sidebar-content nav a {
+  display: block;
+  margin: 1rem 0;
+  text-decoration: none;
+  color: #333;
+  font-size: 1.2rem;
+}
+
+/* Main content */
+main {
+  padding: 2rem;
+  max-width: 700px;
+  margin: 0 auto;
+}
 
