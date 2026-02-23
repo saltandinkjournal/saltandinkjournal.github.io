@@ -18,11 +18,6 @@
 }
 
 /* Sidebar headings and links */
-.sidebar-left h2 {
-  margin-top: 0;
-  font-size: 1.8rem;
-  margin-bottom: 2rem;
-}
 
 .sidebar-left ul {
   list-style: none;
@@ -33,14 +28,25 @@
   margin-bottom: 1.25rem;
 }
 
+.sidebar-left h2 {
+  font-family: 'Georgia', serif; /* classic serif for your sidebar heading */
+  font-size: 2.2rem;            /* slightly bigger */
+  margin-top: 0;
+  margin-bottom: 2rem;
+  text-transform: uppercase;     /* optional, gives a traditional journal feel */
+  letter-spacing: 1px;
+}
+
 .sidebar-left a {
-  color: white;
+  font-family: 'Georgia', serif; /* match the serif feel */
+  font-size: 1.3rem;             /* bigger and easier to read */
   text-decoration: none;
-  font-size: 1.1rem;
+  color: white;
 }
 
 .sidebar-left a:hover {
   color: #f0c878;
+  text-decoration: underline;
 }
 
 /* Main content takes the rest of the space */
