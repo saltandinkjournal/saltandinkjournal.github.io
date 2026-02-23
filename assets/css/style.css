@@ -93,10 +93,15 @@ body {
 
 /* Content sits to the right of sidebar */
 .content {
-  margin-left: 25%; /* same as sidebar width */
+  margin-left: 20%;   /* match the new sidebar width */
   padding: 2rem;
   min-height: 100vh;
-  background: #fdf6f0; /* optional, gives a soft background behind text */
+  background: #fdf6f0;
+}
+
+.content {
+  margin-left: 20%;
+  padding: 3rem;  /* increase padding slightly */
 }
 
 /* Make sure images and text inside content don’t overflow */
