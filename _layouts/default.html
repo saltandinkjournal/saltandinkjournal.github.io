@@ -7,9 +7,12 @@
 </head>
 <body>
 
-  <!-- Sidebar test -->
-  {% comment %} temporarily remove for testing {% endcomment %}
-  <!-- {% include sidebar.html %} -->
+<body>
+  {% include sidebar.html %}
+  <main class="content">
+    {{ content }}
+  </main>
+</body>
 
   <main>
     {{ content }}
