@@ -1,36 +1,32 @@
-<!-- Sidebar -->
-<div id="sidebar" class="sidebar">
-  <!-- Always visible left-quarter sidebar -->
-  <nav class="sidebar-left">
-    <h2 style="color:white;">Salt & Ink</h2>
-    <ul>
-      <li><a href="/" >Home</a></li>
-      <li><a href="/welcome-mat/">Welcome Mat</a></li>
-      <li><a href="/kitchen/">The Kitchen</a></li>
-      <li><a href="/pantry/">The Pantry</a></li>
-      <li><a href="/table/">The Table</a></li>
-      <li><a href="/journal/">The Journal</a></li>
-    </ul>
-  </nav>
+<!-- Always-visible sidebar -->
+<nav class="sidebar-left">
+  <h2>Salt & Ink</h2>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/welcome-mat/">Welcome Mat</a></li>
+    <li><a href="/kitchen/">The Kitchen</a></li>
+    <li><a href="/pantry/">The Pantry</a></li>
+    <li><a href="/table/">The Table</a></li>
+    <li><a href="/journal/">The Journal</a></li>
+  </ul>
+</nav>
 
-  <!-- Full-screen overlay, initially hidden -->
-  <div id="sidebar-fullscreen" class="sidebar-fullscreen">
-    <button id="close-fullscreen" class="sidebar-close">✕</button>
-    <ul>
-      <li><a href="/" >Home</a></li>
-      <li><a href="/welcome-mat/">Welcome Mat</a></li>
-      <li><a href="/kitchen/">The Kitchen</a></li>
-      <li><a href="/pantry/">The Pantry</a></li>
-      <li><a href="/table/">The Table</a></li>
-      <li><a href="/journal/">The Journal</a></li>
-    </ul>
-  </div>
+<!-- Hamburger button -->
+<button id="open-fullscreen" class="hamburger">☰</button>
 
-  <!-- Hamburger button -->
-  <button id="open-fullscreen" class="hamburger">☰</button>
+<!-- FULLSCREEN OVERLAY -->
+<div id="sidebar-fullscreen" class="sidebar-fullscreen">
+  <button id="close-fullscreen" class="sidebar-close">✕</button>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/welcome-mat/">Welcome Mat</a></li>
+    <li><a href="/kitchen/">The Kitchen</a></li>
+    <li><a href="/pantry/">The Pantry</a></li>
+    <li><a href="/table/">The Table</a></li>
+    <li><a href="/journal/">The Journal</a></li>
+  </ul>
 </div>
 
-<!-- Inline JS for toggling fullscreen sidebar -->
 <script>
   const openBtn = document.getElementById('open-fullscreen');
   const closeBtn = document.getElementById('close-fullscreen');
