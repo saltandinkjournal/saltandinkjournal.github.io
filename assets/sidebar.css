@@ -16,16 +16,15 @@ body {
   z-index: 1001;
 }
 
-/* Sidebar */
+/* Sidebar (full screen when open) */
 #sidebar {
   position: fixed;
   top: 0;
-  left: -300px;
-  width: 300px;
+  left: -100%;
+  width: 100%;
   height: 100%;
   background: #fafafa;
-  box-shadow: 2px 0 10px rgba(0,0,0,0.2);
-  padding: 2rem 1.5rem;
+  padding: 3rem 2rem;
   transition: left 0.3s ease;
   z-index: 1002;
 }
@@ -45,7 +44,7 @@ body {
   right: 1rem;
 }
 
-/* Overlay */
+/* Overlay (optional but nice) */
 #overlay {
   position: fixed;
   inset: 0;
@@ -62,12 +61,20 @@ body {
 }
 
 /* Sidebar content */
+.sidebar-content {
+  margin-top: 3rem;
+}
+
+.sidebar-content h1 {
+  margin-bottom: 0.5rem;
+}
+
 .sidebar-content nav a {
   display: block;
   margin: 1rem 0;
   text-decoration: none;
   color: #333;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 }
 
 /* Main content */
@@ -76,4 +83,3 @@ main {
   max-width: 700px;
   margin: 0 auto;
 }
-
