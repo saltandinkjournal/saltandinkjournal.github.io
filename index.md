@@ -7,7 +7,7 @@ title: Salt & Ink
 
 Salt & Ink began as a kitchen notebook. A place to hold recipes, observations, and the small moments that revolve around the counter. Some ideas begin as recipes, others as sentences scribbled between steps. Over time, the notebook grew into a space filled with questions, photos, and stories, textured with spilled salt and spices.
 
-It’s a living record of a home, and records are meant to be shared.
+<p>It’s a living record of a home, and records are meant to be shared.</p>
 
 <img src="/assets/images/welcome.png" alt="Welcome" style="display:block; margin:2rem auto; max-width:90%; border-radius:8px;">
 
