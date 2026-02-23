@@ -1,21 +1,13 @@
-<button id="menu-toggle" class="hamburger">☰</button>
-
-<nav id="sidebar" class="sidebar">
-  <div class="sidebar-bg"></div>
-  
-<div class="sidebar-content">
-  <h1>Salt & Ink Journal</h1>
-  <p>An intentional kitchen with salt, spice, and the stories we carry.</p>
-
-<nav id="sidebar" class="sidebar">
-  <div class="sidebar-bg"></div>
-
-  <ul class="sidebar-links">
-    <li><a href="{{ '/' | relative_url }}">Home</a></li>
-    <li><a href="{{ '/welcome-mat/' | relative_url }}">Welcome Mat</a></li>
-    <li><a href="{{ '/kitchen/' | relative_url }}">The Kitchen</a></li>
-    <li><a href="{{ '/pantry/' | relative_url }}">The Pantry</a></li>
-    <li><a href="{{ '/table/' | relative_url }}">The Table</a></li>
-    <li><a href="{{ '/journal/' | relative_url }}">The Journal</a></li>
-  </ul>
-</nav>
+<div class="sidebar">
+  <button class="hamburger">☰</button>
+  <nav class="sidebar-links" style="display:none;">
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/welcome-mat/">Welcome Mat</a></li>
+      <li><a href="/kitchen/">The Kitchen</a></li>
+      <li><a href="/pantry/">The Pantry</a></li>
+      <li><a href="/table/">The Table</a></li>
+      <li><a href="/journal/">The Journal</a></li>
+    </ul>
+  </nav>
+</div>
