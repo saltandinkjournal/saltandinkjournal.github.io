@@ -23,12 +23,23 @@ body {
   left: -100%;
   width: 100%;
   height: 100%;
-  background: url('/assets/images/sidebar.jpg') center/cover no-repeat;
   padding: 3rem 2rem;
   transition: left 0.3s ease;
-  z-index: 1002;
-  color: #fff; /* ensures text is readable */
+  z-index: 2000;
+  color: #fff;
+  overflow-y: auto;
 }
+
+/* Background image layer */
+#sidebar::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url('/assets/images/sidebar.jpg') center/cover no-repeat;
+  opacity: 0.55;
+  z-index: -1;
+}
+
 
 #sidebar.open {
   left: 0;
