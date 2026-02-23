@@ -9,7 +9,8 @@ Salt & Ink began as a kitchen notebook. A place to hold recipes, observations, a
 
 It’s a living record of a home, and records are meant to be shared.
 
-So come join me in The Salt & Ink Journal.
+
+![Welcome](assets/images/welcome.jpg)
 
 Step into the [Kitchen](/kitchen/) where you’ll find recipes, techniques, useful pantry items, and a focus on cooking as a craft.  
 
