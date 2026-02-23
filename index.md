@@ -1,5 +1,8 @@
 ---
 layout: default
 title: Salt & Ink
-nav: true
 ---
+
+# Test
+
+If you see this, the layout works.
