@@ -7,12 +7,11 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-
-  {% include sidebar.html %}
-
-  <main class="content">
-    {{ content }}
-  </main>
-
+  <div class="site-wrapper">
+    {% include sidebar.html %}
+    <main class="content">
+      {{ content }}
+    </main>
+  </div>
 </body>
 </html>
