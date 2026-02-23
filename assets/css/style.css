@@ -1,35 +1,20 @@
-/* ==========================
-   GLOBAL
-========================== */
-body {
-  margin: 0;
-  font-family: 'Georgia', serif;
-  background: #fdf6f0;
-  color: #333;
+/* Flex container for sidebar + content */
+.site-wrapper {
+  display: flex;
+  min-height: 100vh;
 }
 
-a {
-  transition: color 0.2s ease;
-}
-
-/* ==========================
-   LEFT SIDEBAR
-========================== */
+/* Sidebar always visible */
 .sidebar-left {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 20%;              /* Sidebar width */
-  height: 100vh;
+  width: 20%;
   background: #222;
   color: white;
   padding: 2rem 1.5rem;
   box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
+  flex-shrink: 0; /* prevents shrinking */
 }
 
+/* Sidebar headings and links */
 .sidebar-left h2 {
   margin-top: 0;
   font-size: 1.8rem;
@@ -39,7 +24,6 @@ a {
 .sidebar-left ul {
   list-style: none;
   padding: 0;
-  margin: 0;
 }
 
 .sidebar-left li {
@@ -56,16 +40,16 @@ a {
   color: #f0c878;
 }
 
-/* ==========================
-   MAIN CONTENT
-========================== */
+/* Main content takes the rest of the space */
 .content {
-  margin-left: 20%;          /* match sidebar width */
+  flex: 1;
   padding: 3rem 4rem;
-  min-height: 100vh;
+  background: #fdf6f0;
   line-height: 1.7;
+  min-height: 100vh;
 }
 
+/* Headings and paragraphs */
 .content h1 {
   font-size: 2.4rem;
   margin-bottom: 1rem;
@@ -91,30 +75,7 @@ a {
   color: #d07b3a;
 }
 
-.content img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* ==========================
-   HAMBURGER BUTTON
-========================== */
-.hamburger {
-  position: fixed;
-  top: 1rem;
-  left: 21%;                 /* just to the right of the sidebar */
-  font-size: 1.5rem;
-  background: #222;
-  color: white;
-  border: none;
-  padding: 0.5rem 1rem;
-  cursor: pointer;
-  z-index: 1001;
-}
-
-/* ==========================
-   FULLSCREEN OVERLAY
-========================== */
+/* Fullscreen overlay (unchanged) */
 .sidebar-fullscreen {
   display: none;
   position: fixed;
@@ -162,4 +123,18 @@ a {
   color: white;
   cursor: pointer;
   padding: 0.5rem 1rem;
+}
+
+/* Hamburger button */
+.hamburger {
+  position: absolute; /* we'll place it over the sidebar */
+  top: 1rem;
+  left: 18%; /* just outside sidebar */
+  font-size: 1.5rem;
+  background: #222;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  z-index: 1001;
 }
