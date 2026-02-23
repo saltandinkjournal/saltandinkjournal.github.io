@@ -1,14 +1,21 @@
-<button id="close-sidebar" aria-label="Close menu">×</button>
+<button id="menu-toggle" class="hamburger">☰</button>
 
+<nav id="sidebar" class="sidebar">
+  <div class="sidebar-bg"></div>
+  
 <div class="sidebar-content">
   <h1>Salt & Ink Journal</h1>
   <p>An intentional kitchen with salt, spice, and the stories we carry.</p>
 
-  <nav>
-    <a href="/">The Welcome Mat</a>
-    <a href="/kitchen/">The Kitchen</a>
-    <a href="/table/">The Table</a>
-    <a href="/pantry/">The Pantry</a>
-    <a href="/journal/">The Journal</a>
-  </nav>
-</div>
+<nav id="sidebar" class="sidebar">
+  <div class="sidebar-bg"></div>
+
+  <ul class="sidebar-links">
+    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+    <li><a href="{{ '/welcome-mat/' | relative_url }}">Welcome Mat</a></li>
+    <li><a href="{{ '/kitchen/' | relative_url }}">The Kitchen</a></li>
+    <li><a href="{{ '/pantry/' | relative_url }}">The Pantry</a></li>
+    <li><a href="{{ '/table/' | relative_url }}">The Table</a></li>
+    <li><a href="{{ '/journal/' | relative_url }}">The Journal</a></li>
+  </ul>
+</nav>
