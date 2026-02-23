@@ -4,14 +4,10 @@
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
-<div style="background:red;color:white;padding:10px;">
-LAYOUT IS WORKING
-</div>
-<body>
 
+<body>
   {% include sidebar.html %}
 
   <main class="content">
@@ -19,6 +15,5 @@ LAYOUT IS WORKING
   </main>
 
   <script src="{{ '/assets/js/sidebar.js' | relative_url }}"></script>
-
 </body>
 </html>
