@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/sidebar.css">
+</head>
+
+<body>
+
+  <!-- Hamburger Button -->
+  <button id="sidebar-toggle" aria-label="Open menu">☰</button>
+
+  <!-- Sidebar -->
+  <aside id="sidebar">
+    <button id="close-sidebar" aria-label="Close menu">×</button>
+
+    <div class="sidebar-content">
+      <h1>Salt & Ink Journal</h1>
+      <p>An intentional kitchen with salt, spice, and the stories we carry.</p>
+
+      <nav>
+        <a href="/">The Welcome Mat</a>
+        <a href="/kitchen/">The Kitchen</a>
+        <a href="/table/">The Table</a>
+        <a href="/pantry/">The Pantry</a>
+        <a href="/journal/">The Journal</a>
+      </nav>
+    </div>
+  </aside>
+
+  <!-- Dark overlay -->
+  <div id="overlay"></div>
+
+  <!-- Main content -->
+  <main>
+    {{ content }}
+  </main>
+
+  <script src="/assets/sidebar.js"></script>
+</body>
+</html>
