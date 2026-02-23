@@ -1,13 +1,19 @@
-<div class="sidebar">
-  <button class="hamburger">☰</button>
-  <nav class="sidebar-links" style="display:none;">
-    <ul>
-      <li><a href="/">Home</a></li>
-      <li><a href="/welcome-mat/">Welcome Mat</a></li>
-      <li><a href="/kitchen/">The Kitchen</a></li>
-      <li><a href="/pantry/">The Pantry</a></li>
-      <li><a href="/table/">The Table</a></li>
-      <li><a href="/journal/">The Journal</a></li>
-    </ul>
-  </nav>
+<div class="sidebar" style="position: fixed; top: 0; left: 0; width: 250px; height: 100vh; background: rgba(0,0,0,0.7); color: white; padding: 1rem; display: none;" id="sidebar">
+  <button id="close-sidebar" style="margin-bottom:1rem;">✕ Close</button>
+  <ul style="list-style: none; padding: 0;">
+    <li><a href="/" style="color:white;">Home</a></li>
+    <li><a href="/welcome-mat/" style="color:white;">Welcome Mat</a></li>
+    <li><a href="/kitchen/" style="color:white;">The Kitchen</a></li>
+    <li><a href="/pantry/" style="color:white;">The Pantry</a></li>
+    <li><a href="/table/" style="color:white;">The Table</a></li>
+    <li><a href="/journal/" style="color:white;">The Journal</a></li>
+  </ul>
 </div>
+
+<button id="open-sidebar" style="position: fixed; top: 1rem; left: 1rem; z-index: 1000;">☰ Menu</button>
+
+<script>
+  const sidebar = document.getElementById('sidebar');
+  document.getElementById('open-sidebar').onclick = () => sidebar.style.display = 'block';
+  document.getElementById('close-sidebar').onclick = () => sidebar.style.display = 'none';
+</script>
