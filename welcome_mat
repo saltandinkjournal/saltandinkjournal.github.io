@@ -1,7 +1,6 @@
 ---
 layout: default
-title: The Welcome Mat
-nav: true
+title: Salt & Ink
 ---
 
 # The Welcome Mat
@@ -28,8 +27,8 @@ If you’d like to be a frequent guest here, pull up a stool and sign up for Cou
   referrerpolicy="unsafe-url"
 >
   <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" />
-  <input type="submit" value="Subscribe" />
+  <input type="email" name="email" id="bd-email" required>
+  <input type="submit" value="Subscribe">
   <p>
     Powered by <a href="https://buttondown.com" target="_blank">Buttondown</a>.
   </p>
@@ -38,4 +37,4 @@ If you’d like to be a frequent guest here, pull up a stool and sign up for Cou
 ## Say hello
 
 If anything here resonates and you’d like to connect, you can always reach me at  
-[saltandinkjournal@gmail.com](mailto:saltandinkjournal@gmail.com).
+[saltandinkjournal@gmail.com](mailto:saltandinkjournal@gmail.com)
