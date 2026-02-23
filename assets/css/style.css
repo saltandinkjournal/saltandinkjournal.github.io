@@ -138,3 +138,20 @@
   cursor: pointer;
   z-index: 1001;
 }
+
+/* Fullscreen overlay */
+.sidebar-fullscreen {
+  display: none;           /* hidden by default */
+  position: fixed;         /* cover entire viewport */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: url('/assets/images/sidebar-bg.jpg') no-repeat center center/cover;
+  color: white;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;          /* make sure it’s above everything */
+  padding: 2rem;
+}
