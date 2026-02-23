@@ -1,5 +1,4 @@
 ---
 layout: default
-title: Welcome
+title: Salt & Ink
 ---
-Welcome to Salt & Ink
