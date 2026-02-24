@@ -170,10 +170,8 @@ img {
 }
 
 .page-title {
-  font-size: 3rem;       /* big title */
-  font-weight: bold;      /* bold */
-  margin-bottom: 1.5rem; /* spacing below */
-  font-family: 'Georgia', serif; /* matches your sidebar feel */
-  color: #a65c2c;        /* optional color to match your palette */
-  text-transform: uppercase; /* optional, makes it feel official */
+  font-size: 2.8rem;       /* big and bold */
+  font-weight: bold;
+  font-family: 'Georgia', serif; /* matches sidebar feel */
+  color: #a65c2c;           /* optional, matches palette */
 }
