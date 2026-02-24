@@ -8,6 +8,10 @@ title: The Kitchen
 
 <p>Opening the door the pantry is a sensory explosion. The smokiness of the paprika mingles with the tang of the salt & vinegar chips as you reach in to grab the dark chocolate morsels for your famous chocolate chip cookies. If your pantry is anything like mine, it's filled with a multitude of ingredients, spices, and snacks in such a variety of flavor profiles that you wonder how a cohesive meal could ever come from it. But this is where the magic happens. <p>
 
+<img src="/assets/images/pantry.png" 
+     alt="A pantry shelf filled with jars and ingredients" 
+     class="float-right" />
+
 <p>What kind of olive oil should you keep handy?<p>
 
 <p>What is the precise percentage of dark chocolate for the perfect brownie?<p>
