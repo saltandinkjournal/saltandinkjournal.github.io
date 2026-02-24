@@ -1,182 +1,162 @@
-/* Flex container for sidebar + content */
+/* ============================= */
+/* Base layout                   */
+/* ============================= */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Georgia, serif;
+}
+
 .site-wrapper {
   display: flex;
   min-height: 100vh;
 }
 
-/* Sidebar always visible */
+
+/* ============================= */
+/* Sidebar (desktop)             */
+/* ============================= */
+
 .sidebar-left {
-  width: 20%;
-  background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),
-              url('/assets/images/sidebar.jpg') no-repeat center center/cover;
+  width: 220px; /* fixed width is MUCH safer than % */
+  background:
+    linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
+    url('/assets/images/sidebar.jpg') center/cover no-repeat;
+
   color: white;
   padding: 2rem 1.5rem;
-  box-sizing: border-box;
+
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
 }
 
-/* Sidebar headings and links */
+
+/* Links */
 
 .sidebar-left ul {
   list-style: none;
   padding: 0;
+  margin: 0;
 }
 
 .sidebar-left li {
-  margin-bottom: 1.25rem;
-}
-
-.sidebar-left h2 {
-  font-family: 'Georgia', serif; /* classic serif for your sidebar heading */
-  font-size: 2.2rem;            /* slightly bigger */
-  margin-top: 0;
-  margin-bottom: 2rem;
-  text-transform: uppercase;     /* optional, gives a traditional journal feel */
-  letter-spacing: 1px;
+  margin-bottom: 1.2rem;
 }
 
 .sidebar-left a {
-  font-family: 'Georgia', serif; /* match the serif feel */
-  font-size: 1.3rem;             /* bigger and easier to read */
+  font-size: 1.25rem;
   text-decoration: none;
   color: white;
 }
 
 .sidebar-left a:hover {
   color: #f0c878;
-  text-decoration: underline;
 }
 
-/* Main content takes the rest of the space */
+
+/* ============================= */
+/* Content                       */
+/* ============================= */
+
 .content {
   flex: 1;
   padding: 3rem 4rem;
   background: #fdf6f0;
   line-height: 1.7;
-  min-height: 100vh;
 }
 
-/* Headings and paragraphs */
-.content h1 {
-  font-size: 2.4rem;
-  margin-bottom: 1rem;
+
+/* prevent images breaking layout */
+img {
+  max-width: 100%;
+  height: auto;
 }
 
-.content h2 {
-  font-size: 1.8rem;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+
+/* ============================= */
+/* Hamburger                     */
+/* ============================= */
+
+.hamburger {
+  position: fixed; /* key change */
+  top: 1rem;
+  left: 1rem;
+
+  font-size: 1.6rem;
+  background: #222;
+  color: white;
+  border: none;
+  padding: 0.5rem 0.9rem;
+  cursor: pointer;
+  z-index: 11000;
 }
 
-.content p {
-  font-size: 1.1rem;
-  margin-bottom: 1rem;
-}
 
-.content a {
-  color: #a65c2c;
-  text-decoration: underline;
-}
+/* ============================= */
+/* Fullscreen overlay            */
+/* ============================= */
 
-.content a:hover {
-  color: #d07b3a;
-}
-
-/* Fullscreen overlay */
 .sidebar-fullscreen {
   display: none;
+
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100vh;
-  background: url('/assets/images/sidebar.jpg') no-repeat center center/cover;
+  inset: 0;
+
+  background:
+    linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+    url('/assets/images/sidebar.jpg') center/cover no-repeat;
+
   color: white;
-  flex-direction: column;
+
   align-items: center;
   justify-content: center;
+  flex-direction: column;
+
   z-index: 10000;
-  padding: 2rem;
 }
 
 .sidebar-fullscreen ul {
   list-style: none;
   padding: 0;
-  margin: 0;
   text-align: center;
 }
 
 .sidebar-fullscreen li {
-  margin: 1.5rem 0;
   font-size: 2rem;
-}
-
-.sidebar-fullscreen a {
-  color: white;
-  text-decoration: none;
-}
-
-.sidebar-fullscreen a:hover {
-  color: #f0c878;
+  margin: 1.5rem 0;
 }
 
 .sidebar-close {
   position: absolute;
-  top: 2rem;
-  right: 2rem;
+  top: 1.5rem;
+  right: 1.5rem;
   font-size: 2rem;
-  background: rgba(0,0,0,0.5);
-  border: none;
+  background: rgba(0,0,0,0.6);
   color: white;
+  border: none;
   cursor: pointer;
-  padding: 0.5rem 1rem;
 }
 
-/* Hamburger button */
-.hamburger {
-  position: absolute;
-  top: 1rem;
-  left: 18%; /* just outside sidebar */
-  font-size: 1.5rem;
-  background: #222;
-  color: white;
-  border: none;
-  padding: 0.5rem 1rem;
-  cursor: pointer;
-  z-index: 1001;
-}
+
 /* ============================= */
-/* 📱 Mobile responsive layout   */
+/* 📱 Mobile                     */
 /* ============================= */
 
 @media (max-width: 768px) {
 
-  /* stack layout vertically */
   .site-wrapper {
     flex-direction: column;
   }
 
-  /* hide left sidebar on phones */
   .sidebar-left {
     display: none;
   }
 
-  /* content takes full width */
   .content {
-    width: 100%;
-    padding: 2rem 1.5rem;
-  }
-
-  /* hamburger moves to top left */
-  .hamburger {
-    left: 1rem;
-    top: 1rem;
-  }
-
-  /* fullscreen menu covers everything */
-  .sidebar-fullscreen {
-    display: flex;
+    padding: 2rem 1.4rem;
   }
 }
