@@ -4,7 +4,7 @@ title: The Kitchen
 ---
 
 <p>
-Welcome to  <span class="page-title">The Kitchen</span>: the heart of any home.
+<span class="page-subtitle">Welcome to  <span class="page-title">The Kitchen</span><span class="page-subtitle">: the heart of any home.</span>
 </p>
 
 <p>
