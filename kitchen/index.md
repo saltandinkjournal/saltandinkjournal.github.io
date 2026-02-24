@@ -7,7 +7,7 @@ title: The Kitchen
 <span class="page-title">The Kitchen</span>
  
 <p>
-In the quiet moments of the early morning, it’s where the first coffee is made. You know the one. It gently calls to you, the one that’s worth getting out from under your cocoon of warm blankets. It’s where those quiet kitchen moments unfold, where you sip that perfectly balanced coffee and start preparing a peaceful breakfast.
+In the quiet moments of the early morning, it’s where the first coffee is made. You know the one. It gently calls to you, the one that’s worth getting out from under your cocoon of warm blankets. It’s where those quiet, peaceful moments unfold, where you sip that perfectly balanced coffee and start preparing a simple breakfast spread.
 </p>
 
 <p>
