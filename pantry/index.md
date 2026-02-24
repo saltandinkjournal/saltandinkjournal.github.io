@@ -3,14 +3,15 @@ layout: default
 title: The Kitchen
 ---
 
+<p>Opening the door the pantry is a sensory explosion. The smokiness of the paprika mingles with the tang of the salt & vinegar chips as you reach in to grab the dark chocolate morsels for your famous chocolate chip cookies. If your pantry is anything like mine, it's filled with a multitude of ingredients, spices, and snacks in such a variety of flavor profiles that you wonder how a cohesive meal could ever come from it. But this is where the magic happens. <p>
 <p>
 <span class="page-title">The Pantry</span>
 
 <img src="/assets/images/pantry.png" 
      alt="A pantry shelf filled with jars and ingredients" 
      class="float-right" />
-
-<p>Opening the door the pantry is a sensory explosion. The smokiness of the paprika mingles with the tang of the salt & vinegar chips as you reach in to grab the dark chocolate morsels for your famous chocolate chip cookies. If your pantry is anything like mine, it's filled with a multitude of ingredients, spices, and snacks in such a variety of flavor profiles that you wonder how a cohesive meal could ever come from it. But this is where the magic happens. <p>
+     
+<p>We all want to have a well stocked pantry full of all the items that we may need to create the dishes of our dreams.</p>
 
 <p>What kind of olive oil should you keep handy?<p>
 
