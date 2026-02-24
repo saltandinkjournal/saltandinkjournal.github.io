@@ -147,3 +147,36 @@
   cursor: pointer;
   z-index: 1001;
 }
+/* ============================= */
+/* 📱 Mobile responsive layout   */
+/* ============================= */
+
+@media (max-width: 768px) {
+
+  /* stack layout vertically */
+  .site-wrapper {
+    flex-direction: column;
+  }
+
+  /* hide left sidebar on phones */
+  .sidebar-left {
+    display: none;
+  }
+
+  /* content takes full width */
+  .content {
+    width: 100%;
+    padding: 2rem 1.5rem;
+  }
+
+  /* hamburger moves to top left */
+  .hamburger {
+    left: 1rem;
+    top: 1rem;
+  }
+
+  /* fullscreen menu covers everything */
+  .sidebar-fullscreen {
+    display: flex;
+  }
+}
