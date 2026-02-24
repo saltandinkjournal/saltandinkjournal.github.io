@@ -4,7 +4,8 @@ title: The Kitchen
 ---
 
 <p>
-<span class="page-subtitle">Welcome to  <span class="page-title">The Kitchen</span><span class="page-subtitle">: the heart of any home.</span>
+<span class="page-title">The Kitchen</span>
+  <span class="page-subtitle">: the heart of the home.</span>
 
 <p>
 In the quiet moments of the early morning, it’s where the first coffee is made. You know the one. It gently calls to you, the one that’s worth getting out from under your cocoon of warm blankets. It’s where those quiet kitchen moments unfold, where you sip that perfectly balanced coffee and start preparing a peaceful breakfast.
