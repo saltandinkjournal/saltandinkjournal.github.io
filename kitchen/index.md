@@ -3,10 +3,8 @@ layout: default
 title: The Kitchen
 ---
 
-<h1 class="page-title">The Kitchen</h1>
-
 <p>
-Welcome to The Kitchen: the heart of any home.
+Welcome to  <span class="page-title">The Kitchen</span>: the heart of any home.
 </p>
 
 <p>
