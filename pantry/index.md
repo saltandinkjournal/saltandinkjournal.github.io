@@ -24,4 +24,4 @@ title: The Kitchen
 
 <p>Is it really necessary to have six different types of salt in my pantry right now?  Probably not. But does it allow me to personalize my culinary experience?  Absolutely. Each one evokes a feeling, a subtle difference, a little bit of magic that can turn a simple dish into something memorable. It’s a small indulgence that reminds me that cooking is as much about joy as it is about technique.<p>
 
-<p>The pantry is an entire world of colors, flavors, textures, and scents. It tells the story of who you are--and who you want to be. The pantry is a promise that even the most ordinary day can become extrordinary, with the right ingredients.<p> 
+<p>The pantry is an entire world of colors, flavors, textures, and scents. It tells the story of who you are--and who you want to be. The pantry is a promise that even the most ordinary day can become extraordinary, with the right ingredients.<p> 
