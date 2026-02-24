@@ -160,3 +160,11 @@ img {
     padding: 2rem 1.4rem;
   }
 }
+
+.float-right {
+  float: right;
+  margin: 0 0 1rem 1.5rem; /* top/bottom = 0, left = space from text */
+  width: 40%; /* adjust size as needed */
+  max-width: 300px; /* prevents it from getting too big on wide screens */
+  border-radius: 8px; /* optional, soft edges */
+}
