@@ -8,7 +8,7 @@ nav: true
 
 Even when the chairs around the table are empty, the table holds the echoes of every conversation held across its expanse. There are faint rings on the wood from water glasses. There’s a scratch from when someone was a little too emphatic in their gestures with a fork. There’s some permanent marker stain on the corner and a little glitter from a long-ago Valentine’s Day project that won’t come out of the nooks and crannies of the table. The wood is warm beneath your forearms, worn smooth by years of elbows and passing plates. The table waits patiently for the seats to be filled and the lively chatter to resume.  
 
-<![Long rustic farmhouse dining table in warm afternoon light with a small lavender plant](/assets/images/table.png)" class="float-right" />
+<img src="/assets/images/table.png" alt="Long rustic farmhouse dining table in warm afternoon light with a small lavender plant" class="float-right" />
 
 “Do you remember when Russ jumped off the roof?”  
 
