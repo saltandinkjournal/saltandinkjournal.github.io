@@ -3,7 +3,7 @@ title: The Table
 nav: true
 ---
 
-# The Table
+<span class="page-title">The Table</span
 
 ![Long rustic farmhouse dining table in warm afternoon light with a small lavender plant](/assets/images/table.png)
 
