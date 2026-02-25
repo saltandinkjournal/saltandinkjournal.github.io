@@ -7,23 +7,23 @@ title: Salt & Ink
 
 Salt & Ink began as a kitchen notebook. A place to hold recipes, observations, and the small moments that revolve around the counter. Some ideas begin as recipes, others as sentences scribbled between steps. Over time, the notebook grew into a space filled with questions, photos, and stories, textured with spilled salt and spices.
 
-<p>They say, “You are what you eat,” but the truth goes much deeper than that.
+<p>They say, “You are what you eat,” but the truth goes much deeper than that.<p>
   
-  You are the food of your childhood.
+  <p>You are the food of your childhood.
 
-  You are the people who share your table.
+  <p>You are the people who share your table.
 
-  You are the quiet moments stirring a pot at the end of a long day.
+  <p>You are the quiet moments stirring a pot at the end of a long day.
 
-  You are the memories made over dinners.
+  <p>You are the memories made over dinners.
 
-  You are the laughter shared over dessert.
+  <p>You are the laughter shared over dessert.
 
-  You are the recipes passed down, adapted, forgotten, and rediscovered again.
+  <p>You are the recipes passed down, adapted, forgotten, and rediscovered again.
 
-Salt & Ink lives in that space between nourishment and narrative, where food is more than sustenance. Here, recipes sit beside reflection, technique beside memory, and the table becomes a place to gather not just to eat, but to understand who we are becoming.
+<p>Salt & Ink lives in that space between nourishment and narrative, where food is more than sustenance. Here, recipes sit beside reflection, technique beside memory, and the table becomes a place to gather not just to eat, but to understand who we are becoming.<p>
 
-  Step inside. Stay awhile. There’s always room at the Salt & Ink table.
+  <p>Step inside. Stay awhile. There’s always room at the Salt & Ink table.
 </p>
 
 <img src="/assets/images/welcome.png" alt="Welcome" style="display:block; margin:2rem auto; max-width:90%; border-radius:8px;">
