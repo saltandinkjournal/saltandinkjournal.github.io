@@ -1,9 +1,4 @@
 ---
-layout: default
-title: The Table
-nav: true
----
----
 title: The Table
 nav: true
 ---
