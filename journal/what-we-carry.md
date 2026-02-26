@@ -1,0 +1,67 @@
+---
+layout: default
+title: What We Carry to the Table
+---
+
+---
+layout: default
+title: What We Carry to the Table
+---
+
+<span class="page-title">What We Carry to the Table</span>
+
+<img src="/assets/images/pineapple.png" alt="Pineapple cookie jar on rustic wooden table" class="float-right" />
+
+<p>
+There is a pineapple shaped cookie jar that sits on my mom’s kitchen table.  It’s been there for as long as I can remember. It rarely held cookies, my mom was never much of a baker. Instead, it held memories.
+</p>
+
+<p>
+The bright yellow of the pineapple clashed with our 1990s rustic country aesthetic. It called attention to itself, its size far too large for the table, the  color too bright, the glaze too shiny. It carried a weight far beyond its thick, heavy mass. It was my great grandmother’s cookie jar, the one that always held her special sugar cookies. My mom and her siblings beelined to that jar when they stopped by their grandma’s house on their way home from school.
+</p>
+
+<p>
+I never met Gram, but I know her. I know her deep within my bones.  In so many ways, I am her. The stories that my mom, my grandma, and my aunts traded about her while sitting around that garish pineapple became a piece of me. I got to know her through them and through that cookie jar.
+</p>
+
+<p>
+The kitchen has always been a place of meeting.  Sometimes physical meetings, with friends gathered around the island over a charcutier board or family working together to recreate the traditional Thanksgiving dinner of their childhood. At times, it means learning from someone you will never have the chance to actually meet, yet whose voice feels oddly familiar in your kitchen, the way that Alton Brown has spent years standing at my counter, whether he realizes it or not. And sometimes, if you’re lucky, it means meeting the generations who came before you.
+</p>
+
+<p>
+When food is passed down through the ages, we inherit more than recipes.
+</p>
+
+<img src="/assets/images/recipecard.png" alt="Handwritten sugar cookie recipe card" class="float-left" />
+
+<p>
+As I pull out my old family cookbook, I always take a moment. I pause, remembering my grandma teaching me how to make pie crust. My grandpa swearing me to secrecy as he showed me the secret to his famous syrup. Making the cinnamon rolls that my mom fondly remembers from her childhood.
+</p>
+
+<p>
+It’s a legacy, a story of pain, of laughter, of strength, and it is a legacy of love. We all carry pieces of our family into the kitchen, a deep knowing that can bring comfort and peace, the kind that can only come through a visceral internal knowledge of a taste, a smell, a technique. I like to think it’s a bit of ancestral knowledge. And for those of us lucky enough to have families that pass down stories, recipes, and cookie jars, we also inherit an understanding of who we are and where we came from.
+</p>
+
+<p>
+Not every inheritance arrives neatly wrapped in a warm hug. Sometimes what survives from one generation to the next is resilience, improvisation, or the quiet determination to keep going. So many of our ancestors spent the vast majority of their days making sure that people were fed, harvesting apples, pitting cherries, making bread, slaughtering chickens, and stretching every penny to feed a large family. Those quiet, repetitive acts rarely make it into family stories, but they are the rhythms that shape generations.
+</p>
+
+<p>
+Gram was a complicated woman. Born just shy of the twentieth century in western Pennsylvania, she lived through the invention of the airplane, the television, the polio vaccine, and even sliced bread. She experienced the great depression, the Spanish flu, both world wars, and the space race. Hers wasn’t always an easy life, but it was her own.
+</p>
+
+<p>
+With a domineering mother at home, she was eager to escape and begin her own life, so she married young. She gave birth to a healthy baby boy…and then she divorced. In the early 1900s.  It was practically unheard of in that time and place for a woman to be divorced. It must have been quite a scandal. But Gram knew what she needed to do, she ignored what her friends and family thought of her, and she chose a better life for her young son — and for herself. Her strength and knowledge of who she is and what she’s worth flowed down the generations of strong and opinionated women in our family tree.
+</p>
+
+<p>
+So no, I never met Gram. And yet, I have felt her in my life over the years, her presence and strength urging me to always become the person I was made to be. It’s that moment when muscle memory takes over, when I just know the texture of the cinnamon roll is right or that the frosting is the perfect consistency. When I’m rolling pie dough and I know it has the flakey texture that Grandma’s black raspberry pie always had. How I used to measure ingredients, but now I just add what feels right. Only afterwards do I realize the confidence in my hands was never entirely my own.
+</p>
+
+<p>
+That’s where I feel Gram the most.
+</p>
+
+<p>
+Every time I pull out her handwritten recipe card for sugar cookies to fill up that awful pineapple cookie jar that now sits on my kitchen table, I feel a bit of Gram’s strength pull me upright.  I lift my head a little, pull my shoulders back, and know that I can access that strength.  That it flows through my veins, with just a pinch of nutmeg.
+</p>
