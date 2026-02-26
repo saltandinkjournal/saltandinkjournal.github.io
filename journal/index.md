@@ -21,10 +21,14 @@ With each new stage of life, we bring pieces of our history, tucked into meals, 
 
 <hr>
 
-<div class="journal-entry">
-  <a href="/journal/what-we-carry.html">
-    <img src="/assets/images/pineapple.png" alt="Pineapple cookie jar" class="journal-thumb">
-    <h2>What We Carry to the Table</h2>
-  </a>
-  <p>How a garish pineapple became my inheritance</p>
+<div class="journal-grid">
+
+  <div class="journal-entry">
+    <a href="/journal/what-we-carry.html">
+      <img src="/assets/images/pineapple.png" alt="Pineapple cookie jar">
+      <h2>What We Carry to the Table</h2>
+    </a>
+     <p>How a garish pineapple became my inheritance</p>
+  </div>
+
 </div>
