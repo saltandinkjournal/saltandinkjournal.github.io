@@ -5,7 +5,7 @@ title: The Journal
 
 <span class="page-title">The Journal</span>
 
-src="/assets/images/journal.png" alt="Rustic winter writing table with journal and wood stove" class="float-right" />
+<image src="/assets/images/journal.png" alt="Rustic winter writing table with journal and wood stove" class="float-right" />
 
 <p>
 Not every thought becomes a recipe. Not every recipe becomes a piece of history. But every ingredient, every texture, every idea, or flight of fancy becomes part of us and of who we are becoming. Each ingredient we taste, each flavor we create, carries echoes of the kitchens, streets, and tables that shaped us.
