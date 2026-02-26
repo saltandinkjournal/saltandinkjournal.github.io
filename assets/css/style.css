@@ -186,3 +186,26 @@ img {
   color: #6b3e1c;           /* darker brown, less emphasis than the title */
   margin-left: 0.3rem;      /* small spacing after the title */
 }
+
+.journal-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  margin-top: 40px;
+}
+
+.journal-entry img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.journal-entry h2 {
+  margin-top: 12px;
+  font-size: 1.2rem;
+}
+
+.journal-entry a {
+  text-decoration: none;
+  color: inherit;
+}
