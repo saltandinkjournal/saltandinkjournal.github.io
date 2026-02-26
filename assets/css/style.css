@@ -217,3 +217,8 @@ img {
   text-decoration: none;
   color: inherit;
 }
+
+.journal-grid {
+  max-width: 900px;
+  margin: 40px auto;
+}
