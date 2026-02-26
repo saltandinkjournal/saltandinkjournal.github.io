@@ -171,9 +171,10 @@ img {
 
 .float-left {
   float: left;
-  margin: 0 0 1rem 1.5rem; /* top/bottom = 0, left = space from text */
-  width: 40%; /* adjust size as needed */
-  max-width: 300px; /* prevents it from getting too big on wide screens */
+  margin: 0 20px 20px 0;
+  max-width: 40%;
+  height: auto;
+   max-width: 300px; /* prevents it from getting too big on wide screens */
   border-radius: 8px; /* optional, soft edges */
 }
 
