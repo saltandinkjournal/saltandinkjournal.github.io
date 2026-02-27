@@ -60,8 +60,7 @@ If you’d like to be a frequent guest here, pull up a stool and sign up for Cou
   <input type="submit" value="Subscribe" />
   <p>
     <a href="https://buttondown.com/refer/saltandink" target="_blank">
-      Powered by Buttondown.
-    </a>
+   </a>
   </p>
 </form>
 
