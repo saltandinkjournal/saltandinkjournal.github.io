@@ -27,7 +27,7 @@ Salt & Ink began as a kitchen notebook. A place to hold recipes, observations, a
 </p>
 
 <img src="/assets/images/welcome.png" alt="Welcome" style="display:block; margin:2rem auto; max-width:90%; border-radius:8px;">
-
+<p>
 Step into the [Kitchen](/kitchen/) where you’ll find recipes, techniques, and a focus on cooking as a craft.  
 
 Rummage through the [Pantry](/pantry/) for ingredient reviews, favorite tools, and items that quietly earn their place on the shelf.
@@ -36,29 +36,27 @@ Then settle in at the [Table](/table/) for a look at the human side of food: mem
 
 Afterwards, crack open the [Journal](/journal/), a space of identity and becoming, the quiet evolution of self that happens through cooking.
 
-<p>
-Step into the <a href="/kitchen/">Kitchen</a> where you’ll find recipes, techniques, and a focus on cooking as a craft. 
-  
-  <p>Rummage through the <a href="/pantry/">Pantry</a> for ingredient reviews, favorite tools, and items that quietly earn their place on the shelf. 
-    
-    <p>Then settle in at the <a href="/table/">Table</a> for a look at the human side of food: memories, conversation, rituals, and the threads that bind us. 
-    
-    <p>Afterwards, crack open the <a href="/journal/">Journal</a>, a space of identity and becoming, the quiet evolution of self that happens through cooking.
-</p>
-
 <h2>Counter Notes</h2>
 
 <p>
 If you’d like to be a frequent guest here, pull up a stool and sign up for Counter Notes.
 </p>
 
-<p>
-Enter your email
-</p>
-
-<p>
-Powered by Buttondown.
-</p>
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/saltandink"
+  method="post"
+  class="embeddable-buttondown-form"
+  referrerpolicy="unsafe-url"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.com/refer/saltandink" target="_blank">
+      Powered by Buttondown.
+    </a>
+  </p>
+</form>
 
 <h2>Say hello</h2>
 
