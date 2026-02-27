@@ -29,18 +29,20 @@ Salt & Ink began as a kitchen notebook. A place to hold recipes, observations, a
 <img src="/assets/images/welcome.png" alt="Welcome" style="display:block; margin:2rem auto; max-width:90%; border-radius:8px;">
 <p>
 <p>
-Step into the [Kitchen](/kitchen/) where you’ll find recipes, techniques, and a focus on cooking as a craft.  
+Step into the <a href="/kitchen/">Kitchen</a> where you’ll find recipes, techniques, and a focus on cooking as a craft.
+</p>
 
 <p>
-Rummage through the [Pantry](/pantry/) for ingredient reviews, favorite tools, and items that quietly earn their place on the shelf.
+Rummage through the <a href="/pantry/">Pantry</a> for ingredient reviews, favorite tools, and items that quietly earn their place on the shelf.
+</p>
 
 <p>
-Then settle in at the [Table](/table/) for a look at the human side of food: memories, conversation, rituals, and the threads that binds us.  
+Then settle in at the <a href="/table/">Table</a> for a look at the human side of food: memories, conversation, rituals, and the threads that bind us.
+</p>
 
 <p>
-Afterwards, crack open the [Journal](/journal/), a space of identity and becoming, the quiet evolution of self that happens through cooking.
-
-<p>
+Afterwards, crack open the <a href="/journal/">Journal</a>, a space of identity and becoming, the quiet evolution of self that happens through cooking.
+</p>
 <h2>Counter Notes</h2>
 
 <p>
