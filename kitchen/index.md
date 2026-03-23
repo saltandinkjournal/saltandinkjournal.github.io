@@ -32,7 +32,7 @@ And much as the day began in the kitchen, it also ends here. Dishes are washed, 
 
   <div class="kitchen-entry">
     <a href="/kitchen/back-roads-shortcut.html">
-      <img src="/assets/images/tortillas.png">
+      <img src="/assets/images/road.png" alt="Pennsylvania back road">
       <h2>The Back Roads Shortcut</h2>
     </a>
     <p>Why Homemade Tortillas Are My Weekly Act of Defiance</p>
