@@ -223,3 +223,27 @@ img {
   max-width: 900px;
   margin: 40px auto;
 }
+
+
+.kitchen-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.kitchen-entry img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.kitchen-entry h2 {
+  margin-top: 10px;
+  font-size: 1.2em;
+}
+
+.kitchen-entry p {
+  color: #555;
+  font-size: 0.95em;
+}
