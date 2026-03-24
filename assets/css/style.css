@@ -254,11 +254,15 @@ img {
 }
 
 @media (max-width: 768px) {
-  .full-bleed-mobile {
-    width: 100vw;
-    max-width: 100vw;
-    margin-left: calc(50% - 50vw);
-    margin-right: calc(50% - 50vw);
+  .mobile-full-bleed {
+    float: non !important;
+    display: block;
+    width: 100vw !important;
+    max-width: 100vw !important;
+    margin-left: calc(50% - 50vw) !important;
+    margin-right: calc(50% - 50vw) !important;
+    margin-top: 20px;
+    margin-bottom: 20px
   }
 }
 
