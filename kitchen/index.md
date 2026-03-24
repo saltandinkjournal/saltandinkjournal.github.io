@@ -28,6 +28,8 @@ In the evening, dinner prep begins. The family moves together around the counter
 And much as the day began in the kitchen, it also ends here. Dishes are washed, counters are wiped. Someone decides a bowl of ice cream is needed, while another grabs a nightcap. You close the house together, so that this beautiful, chaotic life can start again in the morning.
 </p>
 
+<hr>
+
 <div class="kitchen-grid">
 
   <div class="kitchen-entry">
