@@ -227,10 +227,10 @@ img {
 
 .kitchen-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 40px;
-  max-width: 700px;   /* keeps them from spreading too far */
-  margin: 40px auto;
+  grid-template-columns: repeat(2, 300px); 
+  justify-content: center; 
+  gap: 60px;
+  margin: 60px auto;
 }
 
 .kitchen-entry img {
