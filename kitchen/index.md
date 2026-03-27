@@ -33,23 +33,17 @@ And much as the day began in the kitchen, it also ends here. Dishes are washed, 
 <div class="kitchen-grid">
 
   <div class="kitchen-entry">
-    <a href="/kitchen/back-roads-shortcut.html">
+    <a href="/kitchen/back-roads.html">
       <img src="/assets/images/tortillas.png">
       <h2>The Back Roads Shortcut</h2>
     </a>
-    <p>Why Homemade Tortillas Are My Weekly Act of Defiance</p>
   </div>
 
-</div>
-
-<div class="kitchen-grid">
- 
- <div class="kitchen-entry">
+  <div class="kitchen-entry">
     <a href="/kitchen/cadbury-egg.html">
       <img src="/assets/images/cadbury-cocktail.png">
       <h2>Reimagining the Cadbury Egg</h2>
     </a>
-    <p>The Cocktail That Fixed Easter Candy</p>
   </div>
 
 </div>
