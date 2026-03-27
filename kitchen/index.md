@@ -42,6 +42,8 @@ And much as the day began in the kitchen, it also ends here. Dishes are washed, 
 
 </div>
 
+<div class="kitchen-grid">
+ 
  <div class="kitchen-entry">
     <a href="/kitchen/cadbury-egg.html">
       <img src="/assets/images/cadbury-cocktail.png">
