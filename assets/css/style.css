@@ -274,3 +274,9 @@ blockquote {
   font-style: italic;
 }
 
+.menu-image {
+  display: block;
+  margin: 40px auto;
+  width: 260px;      /* adjust if needed */
+  max-width: 80%;
+}
