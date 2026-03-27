@@ -266,3 +266,11 @@ img {
   }
 }
 
+blockquote {
+  margin: 30px auto;
+  padding: 15px 20px;
+  background: #f3f3f3;
+  border-left: 4px solid #ccc;
+  font-style: italic;
+}
+
